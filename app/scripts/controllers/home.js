@@ -2,13 +2,13 @@
 
 /**
  * @ngdoc function
- * @name transaldisAdminApp.controller:AboutCtrl
+ * @name transaldisAdminApp.controller:HomeCtrl
  * @description
- * # AboutCtrl
+ * # HomeCtrl
  * Controller of the transaldisAdminApp
  */
 angular.module('transaldisAdminApp')
-  .controller('AboutCtrl', function () {
+  .controller('HomeCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
